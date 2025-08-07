@@ -1,0 +1,98 @@
+[
+    {
+        "role": "Dummy Developer",
+        "company": "Dummy 1",
+        "logo": "profile.png", 
+        "date": "23/07/2004 - present",
+        "companyUrl": "https://scci.co.in/",
+        "description": [
+            "Led development of web applications using React and Node.js",
+            "Integrated Gen AI capabilities into existing products"
+        ],
+        "skills": [
+            "Gen AI Development",
+            "React.js",
+            "Node.js", 
+            "Microsoft Dynamics 365",
+            ".NET Core",
+            "WordPress"
+        ]
+    },
+    {
+        "role": "Dummy Developer",
+        "company": "Dummy 2",
+        "logo": "profile.png",
+        "date": "23/07/2004 - present",
+        "companyUrl": "https://janki.co.in",
+        "description": [
+            "Developed microservices architecture using Java Spring Boot",
+            "Built RESTful APIs with Node.js and Express.js"
+        ],
+        "skills": [
+           "Gen AI Development",
+            "React.js",
+            "Node.js", 
+            "Microsoft Dynamics 365",
+            ".NET Core",
+            "WordPress"
+        ]
+    },
+    {
+        "role": "Dummy Developer",
+        "company": "Dummy 3",
+        "logo": "profile.png",
+        "date": "23/07/2004 - present",
+        "companyUrl": "https://www.mcdermott.com",
+        "description": [
+            "Developed enterprise applications using Angular and ASP.NET",
+            "Created interactive dashboards with Power BI"
+        ],
+        "skills": [
+            "Gen AI Development",
+            "React.js",
+            "Node.js", 
+            "Microsoft Dynamics 365",
+            ".NET Core",
+            "WordPress"
+        ]
+    },
+    {
+        "role": "Dummy",
+        "company": "Dummy 4",
+        "logo": "profile.png",
+        "date": "05/02/2024 - 13/08/2024",
+        "companyUrl": "https://www.ibm.com",
+        "description": [
+            "Developed and trained machine learning models for predictive analytics",
+            "Performed data preprocessing and feature engineering"
+        ],
+        "skills": [
+           "Gen AI Development",
+            "React.js",
+            "Node.js", 
+            "Microsoft Dynamics 365",
+            ".NET Core",
+            "WordPress"
+        ]
+    },
+    {
+        "role": "Dummy",
+        "company": "Dummy 5",
+        "logo": "profile.png",
+        "logoStyle": "filter: invert(1);",
+        "date": "05/02/2024 - 13/08/2024",
+        "companyUrl": "https://jatin0jha.github.io/U-Fab",
+        "description": [
+            "Founded and led an e-commerce startup in the fabric industry",
+            "Developed full-stack web platform from scratch"
+        ],
+        "skills": [
+            "Gen AI Development",
+            "React.js",
+            "Node.js", 
+            "Microsoft Dynamics 365",
+            ".NET Core",
+            "WordPress"
+        ]
+    }
+]

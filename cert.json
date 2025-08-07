@@ -1,0 +1,23 @@
+[
+  {
+    "image_url": "certificates/sttock.png",
+    "title": "Gen AI Exchange Program",
+    "date": "May, 2025",
+    "credential_id": "2025H2S04GENAI-A01328",
+    "view_url": "dummy-lin"
+  },
+  {
+    "image_url": "certificates/stock.jpg",
+    "title": "Foundational C# with Microsoft",
+    "date": "April, 2025",
+    "credential_id": "imded-fcswm",
+    "view_url": "dummy - link"
+  },
+  {
+    "image_url": "certificates/stock.jpg",
+    "title": "CS50x",
+    "date": "April, 2025",
+    "credential_id": "df8c97b1-8ec4-451f-b1ef-eac3f5078a26",
+    "view_url": "dummy - link"
+  }
+] 
